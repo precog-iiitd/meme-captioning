@@ -15,7 +15,7 @@ Prerequisites
 Getting the weights
 ----------
 Download the weights of the trained face emotion captioning models into the `convcap/saved_models` folder
-| `Model` | BLEU-1 &#124; BLEU-2 &#124; BLEU-3 &#124; BLEU-4 &#124; ROGUE-L &#124; METEOR | CIDEr | SPICE | `Link` |
+| `Model` &#124; BLEU-1 &#124; BLEU-2 &#124; BLEU-3 &#124; BLEU-4 &#124; ROGUE-L &#124; METEOR | CIDEr | SPICE | `Link` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: || Ranking |  **0.48**  |  **0.28**  |  **0.17**  |  **0.12**  |  **0.36**  |  **0.15**  |  **0.28**  |  **0.14**  | [`Drive`](https://drive.google.com/open?id=1sLooGw56h-N5chZKDVRAnWLL4fYI77JP)|| Regression  | 0.44 | 0.24 | 0.14 | 0.09 | 0.33 | 0.13 | 0.18 | 0.12 | [`Drive`](https://drive.google.com/file/d/1xqiRvZiyj672TQrEZ1-fBqnJThcOx2Nv/view?usp=sharing)|
 
 Generating face emotion captions using pretrained models
