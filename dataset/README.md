@@ -1,0 +1,1 @@
+Download and extract the dataset to this folder to get: final_faces, final_images, descriptions.json in this directory.

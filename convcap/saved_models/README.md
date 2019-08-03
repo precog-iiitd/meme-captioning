@@ -1,0 +1,1 @@
+Model checkpoints and generated captions can be stored in this folder.
